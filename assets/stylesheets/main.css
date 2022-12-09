@@ -1,15 +1,58 @@
-a
+.navbar-brand
 {
-    height: 100%;
-    display: flex;
-    text-align: center;
-    text-decoration: none;
-    font-size: 68px;
-    font-family: "compacta";
-    margin: 0px;
-    border: 0px;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 15px
 }
-.development
+
+.nav-link
 {
-    padding-left: 150px;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 15px;
+    box-sizing: border-box;
 }
+
+.nav-link:hover, .nav-link:hover
+{
+    color: var(--bs-nav-link-hover-color);
+}
+
+a:hover
+{
+    background: #1a1718;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5), 0px 0px 5px currentColor;
+}
+
+body
+{
+    background: grey;
+}
+
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+.hero-section {
+    background-color: grey;
+    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .hero-section h1 {
+    color: #000;
+    font-size: 56px;
+    font-weight: 900;
+  }
+  
+  .hero-section .lead {
+    color: #fff;
+    font-weight: 300;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.75);
+    font-size: 22px;
+  }
+  
