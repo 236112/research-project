@@ -31,6 +31,7 @@ body
     background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
     background-position: center;
     background-size: 1400px 2350px;
+    margin: 0;
 }
 
 p
