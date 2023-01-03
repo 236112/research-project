@@ -28,13 +28,19 @@ a:hover
 
 body
 {
-    background: grey;
+    background-image: url("/assets/images/TF2StoneWallTexture.png");
+    background-position: center;
+    background-size: auto;
 }
 
 p
 {
     font-family: 'Roboto Mono', monospace;
 }
+
+
+
+
 
 /*
 =================================================
