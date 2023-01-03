@@ -2,7 +2,7 @@
 {
     font-size: 30px;
     padding: 20px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     margin-left: 15px
 }
 
@@ -10,7 +10,7 @@
 {
     font-size: 30px;
     padding: 20px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     margin-left: 15px;
     box-sizing: border-box;
 }
@@ -29,6 +29,11 @@ a:hover
 body
 {
     background: grey;
+}
+
+p
+{
+    font-family: 'Roboto Mono', monospace;
 }
 
 /*
