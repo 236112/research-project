@@ -43,12 +43,19 @@ p
     margin-right: 20px;
 }
 
+.container, .row
+{
+    
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
 .about
 {
     background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
-}
+}  
 
-  
 .background-image
 {
     background-image: url("/assets/images/2fort.jpeg");
@@ -66,4 +73,34 @@ div
 .present-image
 {
     background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+}
+
+.container-fluid
+{
+    
+    margin: 0%;
+}
+
+.history-text-one
+{
+    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+}
+
+.history-text-two
+{
+    padding-left: 60px;
+    text-align: left;
+}
+
+.history-text-three
+{
+    text-align: center;
+    padding: 30px;
+    padding-top: 0px;
+}
+
+.TeamFortressClassicImage
+{
+    width: 600px;
+    padding-top: 20px;
 }
