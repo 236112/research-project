@@ -88,19 +88,54 @@ div
 
 .history-text-two
 {
-    padding-left: 60px;
-    text-align: left;
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: underline;
+}
+
+.history-text-twohalf
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 65px;
+    text-decoration: none;
 }
 
 .history-text-three
 {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     padding: 30px;
     padding-top: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .TeamFortressClassicImage
 {
     width: 600px;
-    padding-top: 20px;
+    padding-top: 15px;
+    padding-right: 120px;
+}
+
+.AboutText
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.text-center
+{
+    text-decoration: underline;
+}
+
+.UpdateImage
+{
+    background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 700px;
 }
