@@ -12,7 +12,6 @@
     padding: 20px;
     font-family: 'Roboto Mono', monospace;
     margin-left: 15px;
-    box-sizing: border-box;
 }
 
 .nav-link:hover, .nav-link:hover
@@ -54,7 +53,10 @@ p
 .about
 {
     background-image: url("/assets/images/TF2StoneWallTexture.JPG");
+    padding-right: 10px;
     padding-bottom: 1.5%;
+    width: 100%;
+    margin: 0;
 }  
 
 .about2
@@ -69,7 +71,8 @@ p
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    padding-top: 700px;
+    width: 70%;
+    margin-left: 15%;
 }
 
 div
@@ -156,4 +159,9 @@ div
     background-size: contain;
     background-repeat: no-repeat;
     padding-top: 700px;
+}
+
+.diugh1
+{
+    width: 100%;
 }
