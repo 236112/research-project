@@ -28,7 +28,7 @@ a:hover
 
 body
 {
-    background-image: url("/assets/images/ConcreteFloor003.png");
+    background-image: url("/assets/images/ConcreteFloor003.PNG");
     background-position: center;
     background-size: auto;
 }
@@ -53,19 +53,19 @@ p
 
 .about
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("/assets/images/TF2StoneWallTexture.JPG");
     padding-bottom: 1.5%;
 }  
 
 .about2
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("/assets/images/TF2StoneWallTexture.JPG");
     padding-bottom: 2%;
 }  
 
 .background-image
 {
-    background-image: url("/assets/images/2fort.jpeg");
+    background-image: url("/assets/images/2fort.JPG");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ div
 
 .present-image
 {
-    background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+    background-image: url("/assets/images/DaysSinceLastUpdate.JPG");
 }
 
 .container-fluid
@@ -90,7 +90,7 @@ div
 
 .history-text-one
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("/assets/images/TF2StoneWallTexture.JPG");
 }
 
 .history-text-two
@@ -151,7 +151,7 @@ div
 
 .UpdateImage
 {
-    background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+    background-image: url("/assets/images/DaysSinceLastUpdate.JPG");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
