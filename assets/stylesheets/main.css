@@ -54,6 +54,13 @@ p
 .about
 {
     background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    padding-bottom: 1.5%;
+}  
+
+.about2
+{
+    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    padding-bottom: 2%;
 }  
 
 .background-image
@@ -125,11 +132,21 @@ div
     font-family: 'Open Sans', sans-serif;
     padding-left: 80px;
     padding-right: 80px;
+    padding-top: 30px;
+}
+
+.AboutText2
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 45px;
 }
 
 .text-center
 {
     text-decoration: underline;
+    padding-top: 45px;
 }
 
 .UpdateImage
