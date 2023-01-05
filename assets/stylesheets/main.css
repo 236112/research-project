@@ -167,8 +167,8 @@ img {
     z-index: 2;
     top: 849px;
     width: 100%;
-    object-fit:cover;
-    object-position:50% 50%;
+    background-position: center;
+    background-size: contain;
   }
   .imgZ1 {
     z-index: 3;
