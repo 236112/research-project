@@ -28,7 +28,7 @@ a:hover
 
 body
 {
-    background-image: url("images/ConcreteFloor003.png");
+    background-image: url("/images/ConcreteFloor003.png");
     background-position: center;
     background-size: auto;
 }
@@ -53,19 +53,19 @@ p
 
 .about
 {
-    background-image: url("images/TF2StoneWallTexture.jpeg");
+    background-image: url("/images/TF2StoneWallTexture.jpeg");
     padding-bottom: 1.5%;
 }  
 
 .about2
 {
-    background-image: url("images/TF2StoneWallTexture.jpeg");
+    background-image: url("/images/TF2StoneWallTexture.jpeg");
     padding-bottom: 2%;
 }  
 
 .background-image
 {
-    background-image: url("images/2fort.jpeg");
+    background-image: url("/images/2fort.jpeg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ div
 
 .present-image
 {
-    background-image: url("images/DaysSinceLastUpdate.jpg");
+    background-image: url("/images/DaysSinceLastUpdate.jpg");
 }
 
 .container-fluid
@@ -90,7 +90,7 @@ div
 
 .history-text-one
 {
-    background-image: url("images/TF2StoneWallTexture.jpeg");
+    background-image: url("/images/TF2StoneWallTexture.jpeg");
 }
 
 .history-text-two
