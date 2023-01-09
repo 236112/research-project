@@ -28,7 +28,7 @@ a:hover
 
 body
 {
-    background-image: url("/assets/images/ConcreteFloor003.png");
+    background-image: url("images/ConcreteFloor003.png");
     background-position: center;
     background-size: auto;
 }
@@ -53,19 +53,19 @@ p
 
 .about
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("images/TF2StoneWallTexture.jpeg");
     padding-bottom: 1.5%;
 }  
 
 .about2
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("images/TF2StoneWallTexture.jpeg");
     padding-bottom: 2%;
 }  
 
 .background-image
 {
-    background-image: url("/assets/images/2fort.jpeg");
+    background-image: url("images/2fort.jpeg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ div
 
 .present-image
 {
-    background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+    background-image: url("images/DaysSinceLastUpdate.jpg");
 }
 
 .container-fluid
@@ -90,7 +90,7 @@ div
 
 .history-text-one
 {
-    background-image: url("/assets/images/TF2StoneWallTexture.jpeg");
+    background-image: url("images/TF2StoneWallTexture.jpeg");
 }
 
 .history-text-two
@@ -98,6 +98,8 @@ div
     text-align: center;
     padding-top: 25px;
     text-decoration: underline;
+    font-size: 20px;
+    font-size: 1.08vmax;
 }
 
 .history-text-twohalf
@@ -107,6 +109,8 @@ div
     padding-right: 140px;
     padding-top: 65px;
     text-decoration: none;
+    font-size: 20px;
+    font-size: 1.08vmax;
 }
 
 .history-text-three
@@ -118,6 +122,8 @@ div
     padding-top: 0px;
     padding-left: 80px;
     padding-right: 80px;
+    font-size: 20px;
+    font-size: 1.08vmax;
 }
 
 .TeamFortressClassicImage
@@ -133,6 +139,9 @@ div
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 30px;
+    font-size: 20px;
+    font-size: 1.08vmax;
+
 }
 
 .AboutText2
@@ -141,6 +150,8 @@ div
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 45px;
+    font-size: 20px;
+    font-size: 1.08vmax;
 }
 
 .text-center
@@ -151,7 +162,7 @@ div
 
 .UpdateImage
 {
-    background-image: url("/assets/images/DaysSinceLastUpdate.jpg");
+    background-image: url("images/DaysSinceLastUpdate.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
