@@ -65,7 +65,7 @@ p
 
 .background-image
 {
-    background-image: url("/images/2fort.jpeg");
+    background-image: url("images/2fort.jpeg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
